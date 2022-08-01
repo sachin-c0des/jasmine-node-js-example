@@ -38,7 +38,7 @@ describe("Calculator Class", function() {
   describe("add", function() {
 
     it("should add two positive numbers", function() {
-      verifyAnswer(calculator.add(3, 2), 6);
+      verifyAnswer(calculator.add(3, 2), 5);
     });
   
     it("should add a positive and a negative number", function() {
