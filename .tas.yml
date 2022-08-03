@@ -13,5 +13,5 @@ postRun:
   command: 
     - echo 'Done Testing'
 parallelism: 3
-splitMode: file
+# splitMode: file
 #teswsqasadan
